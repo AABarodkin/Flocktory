@@ -1,0 +1,10 @@
+# Уровень логирования
+log_level: INFO
+
+# При необходимости файл логирования
+#log_file: /var/log/receiver/receiver.log
+log_file: hakaton.log
+
+      
+
+
