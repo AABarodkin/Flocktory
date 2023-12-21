@@ -7,3 +7,5 @@
 #### Пример запуска в командной строке: python main.py 'data_start/test.json'
 
 #### Результат будет сохранен в файл prediction.csv в корневой каталог
+
+#### Попытка подбора гиперпараметров модели не дала особых результатов https://colab.research.google.com/drive/1A83NJvYm5NpgWMu-538FsvjNgHYZsQ1m?usp=sharing
