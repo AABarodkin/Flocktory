@@ -11,3 +11,5 @@
 #### Результат будет сохранен в файл prediction.csv в корневой каталог
 
 #### Попытка подбора гиперпараметров модели не дала особых результатов https://colab.research.google.com/drive/1A83NJvYm5NpgWMu-538FsvjNgHYZsQ1m?usp=sharing
+
+#### исходники https://drive.google.com/drive/folders/1hfUjgUYOplL8Z1mmYbd8F-MpeaOoymlK?usp=sharing
